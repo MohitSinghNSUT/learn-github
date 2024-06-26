@@ -1,2 +1,2 @@
 # learn-github
-new changes made to git
+new changes made to git hub
