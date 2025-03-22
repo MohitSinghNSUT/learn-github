@@ -1,0 +1,21 @@
+git clone (ssh url)
+git add .
+git commit -m "message"
+git log
+git push origin main/git push origin (branch name)
+
+git init 
+git remote set-url origin (url name)
+git branch 
+git branch branchname 
+git branch -m branchname
+git checkout branch_name(move to that branch)
+git push origin main/(branch_name)
+git checkout -b (branch_name)->make and move to that branch
+git checkout -d (branch_name)->delete branch if you are not present at that branch
+git diff
+git pull origin main (bring new changes of main branch locally)
+git reset HEAD~1 ->after commit
+git reset --hard (commit_id) ->after commit
+git reset/git restore ->after add .
+
